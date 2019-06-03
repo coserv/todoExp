@@ -1,6 +1,6 @@
 {
-  "name": "todoexp",
-  "version": "0.1.0",
+  "name": "@coserv/todoexp",
+  "version": "0.1.1",
   "description": "An example coServ web app which can show a TODO list.",
   "main": "main.js",
   "scripts": {
