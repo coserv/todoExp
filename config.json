@@ -1,0 +1,14 @@
+{
+    "server": {
+        "wwwPath": "./www",
+        "port": 8080
+    },
+    "rpc": {
+        "port": 3000
+    },
+    "apiEngine": {
+        "host": "coimapi.net",
+        "port": 4000,
+        "method": "POST"
+    }
+}

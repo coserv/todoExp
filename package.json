@@ -1,0 +1,31 @@
+{
+  "name": "xs-exp-todo",
+  "version": "0.1.0",
+  "description": "An example coServ web app which can show a TODO list.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": ">=8.9"
+  },
+  "keywords": [
+    "coServ",
+    "cli",
+    "example"
+  ],
+  "author": "Ben Lue",
+  "license": "MIT",
+  "dependencies": {
+    "coserv": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlue/coservCLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benlue/coservCLI/issues"
+  },
+  "homepage": "https://github.com/benlue/coservCLI#readme"
+}
