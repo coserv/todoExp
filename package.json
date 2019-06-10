@@ -1,6 +1,6 @@
 {
   "name": "@coserv/todoexp",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "An example coServ web app which can show a TODO list.",
   "main": "main.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "Ben Lue",
   "license": "MIT",
   "dependencies": {
-    "coserv": "^1.0.2"
+    "coserv": "^1.0.4"
   },
   "devDependencies": {},
   "repository": {

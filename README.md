@@ -5,7 +5,7 @@ You can clone the project or use npm to install the project:
 
     npm install @coserv/todoExp
 
-This project has already embedded a coServ server. Once installed, you can go to the install directory and type the following in the command line to start the web application:
+This project has already embedded a coServ server. Once installed, you can go 'node_modules/@coserv/todoexp' under the install directory and type the following in the command line to start the web application:
 
     npm start
 
