@@ -1,11 +1,11 @@
 This TODO list sample application is to showcase how easy a web app can be built using the [coServ](https://github.com/benlue/coServ) web server. You can show a TODO list, and click on any one of them to see the details. You can even modify a TODO item.
 
 ## Get started
-You can clone the project or use npm to install the project:
+You can clone the project from github:
 
-    npm install @coserv/todoExp
+    git clone https://github.com/coserv/todoExp.git
 
-This project has already embedded a coServ server. Once installed, you can go 'node_modules/@coserv/todoexp' under the install directory and type the following in the command line to start the web application:
+Once done, it will create a "todoExp" directory in the current directory. This project has already embedded a coServ server, so you can simply cd to the "todoExp" directory and type the following command to start the web application:
 
     npm start
 
